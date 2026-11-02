@@ -1,0 +1,43 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Credenciales
+.env
+.env.*
+
+# Archivos del sistema
+desktop.ini
+
+# Modelos entrenados
+*.pkl
+*.joblib
+*.pth
+*.pt
+
+# Resultados generados
+results/figures/*
+results/metrics/*
+
+# Mantener las carpetas en Git
+!results/figures/.gitkeep
+!results/metrics/.gitkeep
+

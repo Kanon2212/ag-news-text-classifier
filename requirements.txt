@@ -1,0 +1,20 @@
+# Manipulación y análisis de datos
+numpy
+pandas
+
+# Visualización
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Procesamiento de lenguaje natural
+spacy
+
+# Deep Learning
+torch
+
+# Notebooks en PyCharm
+jupyter
+ipykernel
