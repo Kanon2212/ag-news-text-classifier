@@ -33,11 +33,3 @@ desktop.ini
 *.pth
 *.pt
 
-# Resultados generados
-results/figures/*
-results/metrics/*
-
-# Mantener las carpetas en Git
-!results/figures/.gitkeep
-!results/metrics/.gitkeep
-

@@ -1,0 +1,14 @@
+CLASIFICACIÓN DE NOTICIAS AG NEWS
+Modelo: TF-IDF + ComplementNB
+Conjunto de evaluación: Test
+
+              precision    recall  f1-score   support
+
+    Business     0.8492    0.8560    0.8526       500
+    Sci_Tech     0.8889    0.8640    0.8763       500
+      Sports     0.9400    0.9720    0.9558       500
+       World     0.9047    0.8920    0.8983       500
+
+    accuracy                         0.8960      2000
+   macro avg     0.8957    0.8960    0.8957      2000
+weighted avg     0.8957    0.8960    0.8957      2000

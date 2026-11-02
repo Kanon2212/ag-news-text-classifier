@@ -1,0 +1,5 @@
+label,Entrenamiento,Prueba,Total,Porcentaje_train
+World,2000,500,2500,25.0
+Sports,2000,500,2500,25.0
+Business,2000,500,2500,25.0
+Sci_Tech,2000,500,2500,25.0
